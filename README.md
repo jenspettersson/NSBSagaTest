@@ -42,3 +42,5 @@ Total tests: 4. Passed: 4. Failed: 0. Skipped: 0.
 Test Run Successful.
 Test execution time: 6.5840 Seconds
 ```
+
+Instead of changing the `xunit.runner.json` file, you can remove `Another_Test_for_SagaOne` and `Another_Test_for_SagaTwo` and the test runner won't hang.
